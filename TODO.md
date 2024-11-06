@@ -13,3 +13,10 @@
 * Decide about NumPy vs Pytorch size polarity mismatch
 * Render segments in PyTorch model. Is this even possible?
 * Find out when PyTorch gets over fit
+* Repeatability with random numbers of training data and PyTorch
+* CPU vs GPU
+* Find good random number seed to keep text in sync with data
+* 2D hat basis
+* Consistant use of float32
+* Hyperparameter exploration
+* Save best model encountered during epochs

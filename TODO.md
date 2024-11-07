@@ -22,6 +22,7 @@ Successfully installed MarkupSafe-3.0.2 Pygments-2.18.0 asttokens-2.4.1 comm-0.2
   * remove pywin32==308 from requirements.txt
 * x Convert segments array to xs, yx in piecewise section
 * Can Layer3 and Layer4 be combined?
+  * Layer4 could be replaced with a sum() operation
 * Explanatory test
   * x Explanation of hat basis construction
   * Explain matrix math and impact of removing ReLU.

@@ -14,6 +14,8 @@ pywavelets 1.5.0 requires numpy<2.0,>=1.22.4, but you have numpy 2.1.2 which is 
 Successfully installed MarkupSafe-3.0.2 Pygments-2.18.0 asttokens-2.4.1 comm-0.2.2 contourpy-1.3.0 cycler-0.12.1 debugpy-1.8.7 executing-2.1.0 filelock-3.16.1 fonttools-4.54.1 fsspec-2024.10.0 ipython-8.29.0 jedi-0.19.1 jupyter_client-8.6.3 kiwisolver-1.4.7 matplotlib-inline-0.1.7 networkx-3.4.2 numpy-2.1.2 nvidia-cublas-cu12-12.4.5.8 nvidia-cuda-cupti-cu12-12.4.127 nvidia-cuda-nvrtc-cu12-12.4.127 nvidia-cuda-runtime-cu12-12.4.127 nvidia-cudnn-cu12-9.1.0.70 nvidia-cufft-cu12-11.2.1.3 nvidia-curand-cu12-10.3.5.147 nvidia-cusolver-cu12-11.6.1.9 nvidia-cusparse-cu12-12.3.1.170 nvidia-nccl-cu12-2.21.5 nvidia-nvjitlink-cu12-12.4.127 nvidia-nvtx-cu12-12.4.127 packaging-24.1 parso-0.8.4 pillow-11.0.0 platformdirs-4.3.6 prompt_toolkit-3.0.48 psutil-6.1.0 pure_eval-0.2.3 pyparsing-3.2.0 pyzmq-26.2.0 setuptools-75.3.0 stack-data-0.6.3 sympy-1.13.1 torch-2.5.1 torchsummary-1.5.1 triton-3.1.0 typing_extensions-4.12.2 wcwidth-0.2.13
 
 
+* x Fix text/documentation describing build_layers() function - parameters are wrong
+* x Rename build_python_model2
 * Dev container
   * install/enable jupyter, python extensions
   * create and activate venv

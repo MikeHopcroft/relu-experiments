@@ -1,5 +1,16 @@
 # TODO
 
+* Progression
+  * 1-layer model, no activation
+  * 1-layer with activation
+  * Adding a second layer
+* Train the O(mn) model
+* Explore overfitting on the first model
+* Model to compute x + y - explore minimum training data required
+* Model to compute x * y
+* Try GPU locally
+* Try GPU on Azure
+* Break large notebook into smaller ones
 
 ERROR: Ignored the following versions that require a different python version: 1.21.2 Requires-Python >=3.7,<3.11; 1.21.3 Requires-Python >=3.7,<3.11; 1.21.4 Requires-Python >=3.7,<3.11; 1.21.5 Requires-Python >=3.7,<3.11; 1.21.6 Requires-Python >=3.7,<3.11
 ERROR: Could not find a version that satisfies the requirement pywin32==308 (from versions: none)
